@@ -1,0 +1,30 @@
+[
+   {
+      "id": 1,
+      "name": "Sardor",
+      "email": "sardor.tolibov04@gmail.com",
+      "password": "Sardor04+",
+      "phone": "+998943166200"
+   },
+   {
+      "id": 2,
+      "name": "Nodirbek",
+      "email": "nodirbek@gmail.com",
+      "password": "Nodir-",
+      "phone": "+998943776478"
+   },
+   {
+      "id": 4,
+      "name": "Elbek",
+      "email": "Elbek@gmail.com",
+      "password": "Elbek-",
+      "phone": "+998943776478"
+   },
+   {
+      "id": 5,
+      "name": "Elchin",
+      "email": "elchin@gmail.com",
+      "password": "elcin-",
+      "phone": "+998943776478"
+   }
+]
